@@ -1,0 +1,228 @@
+#NAVBAR
+#FFFFFF
+
+Why Slack?
+Solutions
+Resources
+Enterprise
+Pricing
+
+Launch Slack
+#611F69
+
+#MAIN Left
+
+WORK FROM HOME
+
+Slack brings the team together, wherever you are
+#1D1D1D
+
+With all of your communication and tools in one place, remote teams will stay productive no matter where you’re working from.
+Learn more 
+CONTACT US
+Need to create a workspace? Get started
+
+#MAIN right
+
+main-right img
+
+#VIDEO SECTION
+
+Break out of the inbox
+Working in channels gives everyone on your team a shared view of progress and purpose.
+https://a.slack-edge.com/085e3/marketing/img/homepage/video/brand-campaign_inline-video.mp4
+
+#SECTION ROW 
+
+#first row
+<i class="fas fa-shapes"></i>
+Conversations, organized
+Instead of a single overstuffed inbox, conversations in Slack happen in dedicated spaces called channels.
+
+
+
+#second row
+<i class="far fa-newspaper"></i>
+Get looped in, not out
+Slack makes it simple to follow conversations or find important information in an easily searchable archive.
+
+
+
+#third row
+<i class="fas fa-hand-sparkles"></i>
+Give focus a chance
+Unlike email, Slack lets you choose which conversations are most important — and which can wait.
+
+LINEBREAK
+
+#main video SECTION
+
+# main Left
+
+Make the change to channels
+Productive teamwork happens in channels — organized spaces for everything related to a project, topic or team.
+
+Learn more about channels
+#4484BC
+<i class="fas fa-arrow-right"></i>
+#4484BC
+
+
+# main right
+https://a.slack-edge.com/d6bad/marketing/img/features/channels/video/inline-1/channels-inline1.mp4
+
+
+#2 main video SECTION
+
+# main Left
+https://a.slack-edge.com/d6bad/marketing/img/features/shared-channels/videos/inline-3/shared-channels-inline3.mp4
+
+# main right
+Shared channels bring companies together
+Now channels can help you work as closely with external partners and clients as you do with teams down the hall.
+
+See how with shared channels
+#4484BC
+<i class="fas fa-arrow-right"></i>
+#4484BC
+
+
+#slideshow section 
+#F5F5F5
+
+Trusted the world over
+Teams of every size, shape and kind have already made Slack the place where their work happens.
+See all customer stories
+<i class="fas fa-arrow-right"></i>
+
+<i class="fas fa-chevron-left"></i>
+<img> slideshow  
+alt="Play money coins in descending height stacks"
+Intuit
+“Our teams tell us they’re working together and solving problems much faster, because although they are spread across the globe, Slack makes it like you’re in the same room.”
+Pam Whitmore
+group manager, IT, Intuit
+READ STORY
+<i class="fas fa-arrow-right"></i>
+<i class="fas fa-chevron-right"></i>
+
+<i class="fas fa-circle"></i>
+<i class="fas fa-circle"></i>
+<i class="fas fa-circle"></i>
+<i class="fas fa-circle"></i>
+
+logo-airbnb
+electronic-arts
+ameritrade-logo
+oracle-logo
+target-logo
+autodesk-logo
+
+
+# ARTICLE SECTION
+#FFFFFF
+
+What’s new at Slack
+
+#article 1
+
+#img
+article-1
+
+How-to
+Your guide to working remotely in Slack
+LEARN MORE
+<i class="fas fa-arrow-right"></i>
+
+
+#article 2
+#img
+article-2
+
+Blog
+Shared channels: A better way to work with people outside your company
+READ STORY
+<i class="fas fa-arrow-right"></i>
+
+#article 3
+#img
+article-3
+
+Blog
+Slack and G Suite bring productivity to your everyday work
+LEARN MORE
+<i class="fas fa-arrow-right"></i>
+
+
+#purple SECTION
+#img
+background-purple
+
+Choose a better way to work
+
+TRY SLACK
+CONTACT SALES
+
+#contact section
+#F5F5F5
+#img
+slack-logo-notext
+
+
+PRODUCT
+Features
+Enterprise
+Security
+Customer Stories
+Pricing
+Slack Demo
+
+
+SLACK FOR TEAMS
+
+Engineering
+Financial Services
+Sales
+IT
+Marketing
+Customer Support
+Human Resources
+Project Management
+Media
+
+RESOURCES
+
+Slack Tips
+Blog
+Slack Certified Program
+Help Center
+API
+App Directory
+Download Slack
+Partners
+
+COMPANY
+
+About Us
+Leadership
+News
+Media Kit
+Careers
+
+#other links section
+
+Status
+Privacy & Terms
+Contact Us
+<i class="fas fa-globe"></i>
+Change Region
+<i class="fas fa-chevron-down"></i>
+
+<i class="fab fa-twitter"></i>
+<i class="fab fa-facebook-square"></i>
+<i class="fab fa-youtube"></i>
+<i class="fab fa-linkedin"></i>
+
+#footer 
+#EBEAEB
+© Copyright 2020 Slack Technologies, Inc. All rights reserved. Various trademarks held by their respective owners.
