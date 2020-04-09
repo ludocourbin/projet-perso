@@ -87,6 +87,10 @@ header {
   z-index: 1000;
 }
 
+header .burger {
+  display: none;
+}
+
 header img {
   height: 27px;
   position: relative;
@@ -329,6 +333,8 @@ header p {
   display: flex;
   padding-top: 2em;
   align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
   margin: 0 auto;
   padding-bottom: 4em;
 }
@@ -342,7 +348,7 @@ header p {
 }
 
 .logos img {
-  max-width: 130px;
+  max-width: 10em;
   max-height: 80px;
   margin-left: 3.5em;
 }
@@ -503,4 +509,163 @@ footer {
   background-color: #ebeaeb;
   padding: 1.5em 3em;
   font-size: 0.9em;
+}
+
+@media (max-width: 950.98px) {
+  /* Medium devices (tablets, less than 992px) */
+  .slideshow-img {
+    flex-direction: column;
+    width: 70%;
+    padding: 1em;
+  }
+
+  .slideshow-img img {
+    width: 100%;
+    position: initial;
+  }
+
+  .right-i,
+  .left-i {
+    display: none;
+  }
+
+  .slideshow .slideshow-text .link-chevron {
+    position: initial;
+    padding-top: 1em;
+  }
+
+  .slideshow .column h2 {
+    padding: 1em;
+    text-align: center;
+  }
+
+  .logos img {
+    padding-bottom: 1.5em;
+    margin-left: 0;
+    padding: 0 1em 3em;
+  }
+
+  .flex {
+    flex-direction: column;
+  }
+
+  #first-section div {
+    width: 90%;
+  }
+
+  #first-section div img {
+    width: 100%;
+    position: initial;
+  }
+
+  #first-section div:last-of-type {
+    margin-top: 0;
+  }
+
+  #first-video {
+    margin-top: 3em;
+    margin-bottom: 2em;
+  }
+
+  .section-33 .column-3 {
+    padding: 2em 4em;
+  }
+
+  .section-50-50 div {
+    width: 90%;
+  }
+
+  #second-section {
+    padding-top: 2em;
+  }
+
+  #third-section-video .column {
+    padding: 3em;
+    order: -1;
+  }
+
+  #third-section-video {
+    padding-bottom: 2em;
+  }
+
+  .cards {
+    flex-direction: column;
+  }
+
+  .cards article {
+    width: 50%;
+    margin: 2em auto 1em;
+  }
+
+  .contact-section {
+    display: block;
+  }
+
+  .contact-section-img {
+    margin: 3em auto 3em;
+  }
+
+  .contact-section-img img {
+    position: initial;
+  }
+
+  .contact-section-ul {
+    display: flex;
+    padding-top: 0;
+    padding-right: 0;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+
+  .purple-section h1 {
+    padding: 1em 1em 0.6em;
+  }
+
+  .contact-section-ul ul {
+    padding-bottom: 1em;
+    margin-left: 0;
+    padding-right: 2em;
+    width: 200px;
+  }
+
+  .links-section {
+    flex-direction: column;
+  }
+
+  .links-section .icons {
+    padding-top: 2em;
+  }
+
+  footer {
+    text-align: center;
+    padding: 1em;
+    line-height: 20px;
+  }
+
+  header ul {
+    position: fixed;
+    text-align: center;
+    width: 250px;
+    display: none;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    background-color: #611f69;
+  }
+
+  header ul li {
+    padding: 2em 1em;
+    color: #fff;
+  }
+
+  header p {
+    display: none;
+  }
+
+  header .burger {
+    display: block;
+    position: relative;
+    font-size: 1.5em;
+    right: 1em;
+  }
 }
